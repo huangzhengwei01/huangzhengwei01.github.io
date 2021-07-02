@@ -1,0 +1,19 @@
+@charset "utf-8";
+.bg {
+	background-color: #FFF;
+	background-image: url(bg.jpeg);
+}
+.zt {
+	font-size: 36px;
+}
+.QQzt {
+	font-size: 22px;
+}
+.QQzt2 {
+	font-size: 20px;
+	font-weight: bolder;
+	color: #FC3;
+}
+.bt {
+	color: #0F9;
+}
